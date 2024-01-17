@@ -1,16 +1,20 @@
-### Hi there 👋
+## HOLA, SOY ANDRÉ 👋
 
-<!--
-**AndreAbreo/AndreAbreo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Actualmente estoy estudiando LIC. TECNOLOGIAS DE LA INFORMACION en la UTEC 
+- 🌱 Estoy terminado el Bootcamp de DESARROLLO FULL-STACK en 4GEEKS ACADEMY
+- 👯 Busco colaborar en cualquier projecto que lo requiera
+- 🤔 Busco tener una oportunidad en alguna empresa lider
+- 💬 Pregúntame sobre lo que quieras
+- 📫 Cómo contactarme: worldvruruguay@gmail.com
+- ⚡ Dato curioso: Nunca duermo, ese es mi secreto ... ^_^
+  
+### SKILLS: Git - HTML - Blockchain - Python - Java - JavaScript - Oracle - SQL - CSS - React - Flask - QA
+### SOFT SKILLS: Responsable - Creativo - Cordial - Amable - Espontaneo - Organizado - Incansable
 
-Here are some ideas to get you started:
+->
+Siempre viene bien un café para mantenerse constante
+https://www.buymeacoffee.com/drbuitre
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://media.giphy.com/media/513lZvPf6khjIQFibF/giphy.gif" alt="Texto Alternativo" width="300"/>
+
+->
