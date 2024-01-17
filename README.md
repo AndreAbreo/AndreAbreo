@@ -11,6 +11,5 @@
 ### SKILLS: Git - HTML - Blockchain - Python - Java - JavaScript - Oracle - SQL - CSS - React - Flask - QA
 ### SOFT SKILLS: Responsable - Creativo - Cordial - Amable - Espontaneo - Organizado - Incansable
 
-->
-Siempre viene bien un café para mantenerse constante
-https://www.buymeacoffee.com/drbuitre <img src="https://media.giphy.com/media/513lZvPf6khjIQFibF/giphy.gif" alt="Texto Alternativo" width="300"/>
+----------------------------------------- ![Texto Alternativo](https://media.giphy.com/media/02SF88QE37vY1q0VnQ/giphy.gif)  -----------------------------
+
