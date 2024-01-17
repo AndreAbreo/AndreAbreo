@@ -13,8 +13,4 @@
 
 ->
 Siempre viene bien un café para mantenerse constante
-https://www.buymeacoffee.com/drbuitre
-
-<img src="https://media.giphy.com/media/513lZvPf6khjIQFibF/giphy.gif" alt="Texto Alternativo" width="300"/>
-
-->
+https://www.buymeacoffee.com/drbuitre <img src="https://media.giphy.com/media/513lZvPf6khjIQFibF/giphy.gif" alt="Texto Alternativo" width="300"/>
